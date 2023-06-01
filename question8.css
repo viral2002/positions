@@ -1,0 +1,28 @@
+.form{
+    height: 500px;
+    width: 800px;
+    position: relative;
+    z-index: 1;
+    border: 1px solid black;
+    background-color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    left: 300px;
+}
+.main{
+    position: absolute;
+    z-index: 0;
+}
+textarea{height: 200px;
+width: 400px;}
+input {
+    border: none;
+    border: 2px solid black;
+    width: 50%;
+    margin: 1px;
+    background-color:#f0f8ff;
+  }
+  button{
+    background-color: blue;
+    color: #f0f8ff;
+  }

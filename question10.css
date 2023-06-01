@@ -1,0 +1,54 @@
+.form{
+    height: 500px;
+    width: 800px;
+    position: relative;
+    z-index: 1;
+    border: 1px solid black;
+    background-color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    left: 300px;
+    
+   
+    
+}
+.main{
+    position: absolute;
+    z-index: 0;
+}
+
+
+  button{
+    background-color: blue;
+    color: #f0f8ff;
+  }
+  .terms{
+    position: fixed;
+    height: 50px;
+    width: 800px;
+    background-color: #faebd7;
+    margin-top: 0px;
+
+  }
+  .vir{margin-top: 50px;
+  overflow: scroll;
+  height: 400px;
+  width: 800px;}
+#condition{
+  
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+padding-right: 0px;
+}
+label{margin-left: 0px;
+margin-right: 0px;
+padding-left: 0px;
+padding-right: 0px;}
+.checkbox{
+  position: fixed;
+  height: 100px;
+    width: 800px;
+    bottom: 300px;
+    background-color: #faebd7;
+}

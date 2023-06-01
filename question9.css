@@ -1,0 +1,16 @@
+.main{
+    height: 300px;
+    width: 200px;
+    border: 1px solid black;
+    overflow: scroll;
+}
+ul{
+    display: none;
+}
+h1:hover + ul{
+    display: block;
+}
+h1{
+    background-color: #f17474;
+    display: inline;
+}

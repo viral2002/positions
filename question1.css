@@ -1,0 +1,54 @@
+body{background-color: black;
+color: aliceblue;
+margin: 0px;}
+p{
+    text-align: center;
+}
+a{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+    color: aliceblue;
+    text-decoration: none;
+}
+h1{
+    color: #7272eb;
+}
+.starting{text-align: justify;
+    margin-left: 100px;
+
+}
+h1{margin: 0px;
+    text-align: center;}
+.nav{float: left;
+    padding-left: 0px;
+margin-right: 100px;
+background: #444343;
+}
+ul li{height: 25px;
+width: auto;
+color: aliceblue;
+padding: 10px;
+list-style-type: none;
+display: block;
+margin: 0px;}
+.logo{width: 150px;
+height: 100px;
+background: #7dacf2da;}
+ul{
+    padding-left: 0px;
+    height: 1000px;
+}
+.image{
+    text-align: center;
+    margin: 30px;
+    
+}
+.viral{
+    
+    width: 600px;
+    height: 300px;
+}
+hr{
+   border: 1px  dashed    solid #3939398c;
+   
+}

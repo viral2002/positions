@@ -1,0 +1,22 @@
+body{background-color: #0c0c0c;}
+
+
+.main{
+    float: left;
+    width: 500px;
+    text-align: left;
+    margin-top: 300px;
+    color: #f0f8ff;
+}
+.button{
+    height: 25px;
+    width: 150px;
+    background-color: #7777f0;
+    color: #f0f8ff;
+    border-radius: 5px;
+}
+img{
+    float: right;
+    margin-top: 150px;
+    margin-right: 0px;
+}

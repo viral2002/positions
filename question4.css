@@ -1,0 +1,44 @@
+img{
+    height: 200px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    background-color: #454343;
+    color: aliceblue;
+}
+.details{
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+    
+}
+.full{
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+}
+.sale{
+    background-color: #c43535;
+    
+   display: flex;
+   position: fixed;
+    height: 50px;
+    width: 1000px;
+    text-align: center;
+   justify-content: center;
+   margin-left: 250px;
+   color: #d7cfcf;
+}
+.bnm{
+    margin-top: 50px;
+}
+a{
+    text-decoration: none;
+    color: #f0f8ff;
+}

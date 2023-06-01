@@ -1,0 +1,21 @@
+button{
+   position: absolute;
+    background-color:red;
+   text-align: center;
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    
+}
+.off{
+   position: relative;
+    background-color: black;
+    text-align: center;
+    height: 20px;
+    width: 60px;
+    color: aliceblue;
+    left: 160px;
+    top: 10px;
+   z-index: 1;
+   border-radius: 5px;
+}
